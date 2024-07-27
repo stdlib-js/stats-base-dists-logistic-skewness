@@ -67,7 +67,7 @@ The [skewness][skewness] for a [logistic][logistic-distribution] random variable
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-skewness@v0.2.2-esm/index.mjs';
 ```
 
 #### skewness( mu, s )
@@ -132,7 +132,7 @@ y = skewness( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-skewness@v0.2.2-esm/index.mjs';
 
 var mu;
 var s;
