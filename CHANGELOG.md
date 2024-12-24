@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-20)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -34,7 +34,8 @@ This release closes the following issue:
 
 <details>
 
--   [`6c141f4`](https://github.com/stdlib-js/stdlib/commit/6c141f4c169d080eec1867c421aa6ffa88b9ebfd) - **feat:** add C implementation for `stats/base/dists/logistic/skewness` [(#4038)](https://github.com/stdlib-js/stdlib/pull/4038) _(by JoyBoy)_
+-   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
+-   [`6c141f4`](https://github.com/stdlib-js/stdlib/commit/6c141f4c169d080eec1867c421aa6ffa88b9ebfd) - **feat:** add C implementation for `stats/base/dists/logistic/skewness` [(#4038)](https://github.com/stdlib-js/stdlib/pull/4038) _(by Prashant Kumar Yadav)_
 
 </details>
 
@@ -46,9 +47,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
--   JoyBoy
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
