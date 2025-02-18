@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-12)
+## Unreleased (2025-02-18)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3744](https://github.com/stdlib-js/stdlib/issues/3744)
+[#3744](https://github.com/stdlib-js/stdlib/issues/3744), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
 -   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`6c141f4`](https://github.com/stdlib-js/stdlib/commit/6c141f4c169d080eec1867c421aa6ffa88b9ebfd) - **feat:** add C implementation for `stats/base/dists/logistic/skewness` [(#4038)](https://github.com/stdlib-js/stdlib/pull/4038) _(by Prashant Kumar Yadav)_
@@ -48,8 +49,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   GK Bishnoi
+-   Gopi Kishan
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
